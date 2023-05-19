@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+}
+.App{
+  background-color: black;
+}
+.head{
+  color: red;
+  text-align: center;
+}
